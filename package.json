@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "china-division": "2.7.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "name": "z3jh8h",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
